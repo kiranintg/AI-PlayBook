@@ -1,4 +1,4 @@
-# XYZ Messenger - Business Rules
+# AMS Connect Messenger - Business Rules
 
 ## Messaging Rules
 
