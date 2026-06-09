@@ -1,11 +1,11 @@
 
-# XYZ Messenger - Application Context
+# AMS connect - Application Context
 
 ## Application Overview
 
 ### Name
 
-XYZ Messenger
+AMS connect Messanger
 
 ### Purpose
 
