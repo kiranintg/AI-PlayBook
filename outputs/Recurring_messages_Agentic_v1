@@ -1,1 +1,17 @@
 
+# Recurring Messaging Agentic Generator
+
+Convert manual test cases into AI-agent-executable test cases.
+
+For each test case provide:
+
+- TC_ID
+- Preconditions
+- Test Data
+- Action Type
+- UI Element
+- Expected Result
+- Validation Type
+- Automation Candidate
+
+Output in CSV format.
